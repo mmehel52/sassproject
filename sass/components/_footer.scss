@@ -18,3 +18,6 @@ footer.horizontal {
   padding: 1rem;
   @extend.link-style;
 }
+footer.vertical {
+  border: 2px solid red;
+}
